@@ -1,6 +1,6 @@
 
-def woot(a,b)
+def add(a,b)
 	p a + b
 end
 
-woot(10,5)	
+add(10,5)	
